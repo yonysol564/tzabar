@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'TLAT-CondensedBlack';
+  src: url('TLAT-CondensedBlack.eot?#iefix') format('embedded-opentype'),  url('TLAT-CondensedBlack.otf')  format('opentype'),
+	     url('TLAT-CondensedBlack.woff') format('woff'), url('TLAT-CondensedBlack.ttf')  format('truetype'), url('TLAT-CondensedBlack.svg#TLAT-CondensedBlack') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}

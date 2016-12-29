@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'TLAT-CondensedRegular';
+  src: url('TLAT-CondensedRegular.eot?#iefix') format('embedded-opentype'),  url('TLAT-CondensedRegular.otf')  format('opentype'),
+	     url('TLAT-CondensedRegular.woff') format('woff'), url('TLAT-CondensedRegular.ttf')  format('truetype'), url('TLAT-CondensedRegular.svg#TLAT-CondensedRegular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
